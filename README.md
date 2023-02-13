@@ -4,3 +4,4 @@
 
   - freature-A
   - fix-B
+  - feature-C
