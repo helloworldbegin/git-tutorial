@@ -2,4 +2,5 @@
 # Git 教程
 
 
-- freature-A
+  - freature-A
+  - fix-B
